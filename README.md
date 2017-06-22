@@ -27,8 +27,8 @@ Checking connectivity... done.
 成功したときは上のような内容がでる(はず)。
 
 lsコマンドでコピーできたか確認できる。  
-$ ls			      ;入力  
-README.md　sugaso-project/    ;出力(sugaso-projectがあればOK)  
+$ ls　　　　　　　　　　　　　　;入力  
+README.md　sugaso-project/　　;出力(sugaso-projectがあればOK)  
 
 cloneが成功したら、新しいファイルを作ってみよう。
 
