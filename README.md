@@ -32,7 +32,7 @@ README.md　sugaso-project/　　;出力(sugaso-projectがあればOK)
 
 新しいファイルを作ってみる。  
 Self-idというファイルを作り自己紹介文を書く。  
-書き終わったら**git add -A**
+書き終わったら **git add -A** というコマンドと **git commit -m "Self-id"**というコマンドを実行する。この**commit**というコマンドがファイルの変更をGitに反映させるという命令。  
 
 
 
