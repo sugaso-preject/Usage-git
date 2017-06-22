@@ -27,8 +27,8 @@ Checking connectivity... done.
 成功したときは上のような内容がでる(はず)。
 
 lsコマンドでコピーできたか確認できる。  
-$ ls　　　　　　　　　　　　　　;入力  
-README.md　sugaso-project/　　;出力(sugaso-projectがあればOK)  
+$ ls　　　　　　　　　　　　　　  
+README.md　sugaso-project/　　(sugaso-projectがあればOK)  
 
 新しいファイルを作ってみる。  
 Self-idというファイルを作り自己紹介文を書く。  
