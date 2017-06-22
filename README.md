@@ -30,8 +30,9 @@ lsコマンドでコピーできたか確認できる。
 $ ls　　　　　　　　　　　　　　;入力  
 README.md　sugaso-project/　　;出力(sugaso-projectがあればOK)  
 
-cloneが成功したら、新しいファイルを作ってみよう。
-
+新しいファイルを作ってみる。  
+Self-idというファイルを作り自己紹介文を書く。  
+書き終わったら*git add -A*
 
 
 
@@ -46,4 +47,4 @@ $ git config --global user.name "your mailaddress writed"
 $ git config --global --replace-all user.email "your mailaddress writed"
 
 設定した情報を確認するコマンドは以下のコマンド。  
-$git config --global -l
+$ git config --global -l
