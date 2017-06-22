@@ -36,13 +36,13 @@ cloneが成功したら、新しいファイルを作ってみよう。
 
 
 git commitが出来ない時の対応.  
-ターミナルを開き、以下のコマンドを入力。  
+ターミナルを開き、以下を入力。  
 $ git config --global user.email "your mailaddress writed"  
 $ git config --global user.name "your mailaddress writed"  
 
 これでユーザー情報の登録完了。
 
-設定した情報を上書きするには、以下のコマンド。  
+設定した情報を上書きするには、以下を入力。  
 $ git config --global --replace-all user.email "your mailaddress writed"
 
 設定した情報を確認するコマンドは以下のコマンド。  
