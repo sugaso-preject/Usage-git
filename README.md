@@ -24,7 +24,7 @@ remote: Total 6 (delta 0), reused 3 (delta 0), pack-reused 0
 Unpacking objects: 100% (6/6), done.  
 Checking connectivity... done.  
 
-成功したときは;で囲んだ内容がでる(はず)。
+成功したときは上のような内容がでる(はず)。
 
 lsコマンドでコピーできたか確認できる。  
 $ ls			      ;入力  
